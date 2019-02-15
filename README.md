@@ -1,1 +1,1 @@
-# make-drupal-great-again
+# Yes, we can make Drupal great again!
