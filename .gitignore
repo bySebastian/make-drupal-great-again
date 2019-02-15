@@ -1,0 +1,5 @@
+## hugo default output directory
+/static-site/public
+
+## OS files
+.DS_Store
